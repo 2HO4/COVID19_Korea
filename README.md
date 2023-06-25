@@ -44,4 +44,4 @@ I welcome pull requests for this project. If you plan to make significant change
 [More info.](CHANGELOG.md)
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT.](https://choosealicense.com/licenses/mit/)
